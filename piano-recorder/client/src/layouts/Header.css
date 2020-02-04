@@ -1,0 +1,16 @@
+.Header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+    background-color: #757575;
+    grid-area: header;
+}
+
+.Header .logo {
+    padding: 0 20px 0 20px;
+}
+
+.Header .link {
+    padding: 0 10px 0 10px;
+}

@@ -1,0 +1,27 @@
+{
+  "name": "piano",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.5.2",
+    "apollo-boost": "^0.1.10",
+    "apollo-client": "^2.3.5",
+    "graphql": "^0.13.2",
+    "graphql-tag": "^2.9.2",
+    "react": "^16.4.1",
+    "react-apollo": "^2.1.9",
+    "react-dom": "^16.4.1",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "cypress": "^3.8.3"
+  }
+}
