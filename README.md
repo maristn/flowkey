@@ -1,6 +1,6 @@
 # QA Piano Task
 
-This repository contains the instruction and codebase for an interview task at [flowkey](https://www.flowkey.com).
+This repository contains the instruction and codebase for an interview task as a QA Engineer at [flowkey](https://www.flowkey.com).
 
 *If anything here is unclear or any questions come to your mind, don’t hesitate to contact us - we’re here to help you!*
 
@@ -8,14 +8,11 @@ This repository contains the instruction and codebase for an interview task at [
 
 1. Please copy this codebase to a private repo on your Github account by using [Github Importer](https://help.github.com/en/articles/importing-a-repository-with-github-importer) or by cloning it (don't create a fork!).
 
-2. Add a Pull Request (to merge your changes to `master` of your copy, not this repository!) implementing the following functionality:
-**Enable the user of the app to record a sequence of keys played on the Piano UI as a "Song" and replay it.**
+2. Add a Pull Request (to merge your changes to `master` of your copy, not this repository!) implementing UI, integration and unit tests as indicated within the [bugfix-piano](bugfix-piano) repository.
 
-### Implementation guidelines
-- Focus on **clean, readable code** and **simplicity**
+### Requirements for test cases
 
-
-### Test requirements
+- tbd
 
 ## Provided Codebase
 
