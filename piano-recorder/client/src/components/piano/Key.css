@@ -1,0 +1,30 @@
+.Key {
+    position: relative;
+    width: 20px;
+    height: 150px;
+}
+
+.Key>.whiteKey {
+    position: absolute;
+    background-color: white;
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+}
+
+.Key>.whiteKey:active{
+    background-color: #eeeeee;
+}
+
+.Key>.blackKey {
+    position: absolute;
+    left: 13px;
+    background-color: black;
+    width: 16px;
+    height: 80px;
+    z-index: 10;
+}
+
+.Key>.blackKey:active {
+    background-color: #424242;
+}

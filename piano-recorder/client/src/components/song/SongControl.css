@@ -1,0 +1,12 @@
+.SongControl {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
+
+.SongControl button {
+    padding: 10px;
+    margin: 0 10px 0 10px;
+}
