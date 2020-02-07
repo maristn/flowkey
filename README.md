@@ -19,7 +19,6 @@ This repository contains the instruction and codebase for an interview task as a
 
 These test cases should cover a selection of [known isses](#known-issues) as listed below but also new issues you figure out yourself.
 
-
 ### Requirements for test cases
 
 - Each test should only cover a single, well-defined piece of functionality.
@@ -47,4 +46,9 @@ This is an initial, non-exhaustive list of issues. There are several other ones 
 The codebase consists of:
 - an implementation of a buggy React [piano-recorder](piano-recorder) containing a server and client side part
 - a simple testing setup based on Jest and Cypress
+
+### Running sample tests
+
+- **to run jest tests:** switch to `piano-recorder/client` and run `npm test`
+- **to run cypress tests:** make sure the app is running, switch to `piano-recorder/client` and run `npx cypress open` 
 
