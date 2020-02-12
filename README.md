@@ -12,10 +12,10 @@ This repository contains the instruction and codebase for an interview task as a
 
 ### Test cases to add
 
-- at least 2 UI tests
-- at least 2 integration tests including client and server-side
-- at least 3 client-side unit tests
-- at least 1 server-side unit test
+Across client and server please add:
+- at least 1 UI test
+- at least 2 integration tests
+- at least 3 unit tests
 
 These test cases should cover a selection of [known isses](#known-issues) as listed below but also new issues you figure out yourself.
 
